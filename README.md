@@ -1,3 +1,3 @@
 # Intern6
 
-My Project
+My Project with lazy students
